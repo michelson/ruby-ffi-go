@@ -7,6 +7,6 @@ Using the new Go1.5 shared lib export feature.
 
 `make`
 
-### Run Exmaples/BenchMark
+### Run Examples/BenchMark
 
 `make bench`
